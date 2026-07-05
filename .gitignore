@@ -1,0 +1,38 @@
+﻿# ---- Environment / secrets ----
+.env
+backend/.env
+frontend/.env
+*.env.local
+
+# ---- Python ----
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# ---- Node / frontend ----
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# ---- Backend runtime artifacts (regenerable, not source) ----
+backend/data/
+backend/cache/
+
+# ---- Logs ----
+*.log
+npm-debug.log*
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+docker-compose.yml

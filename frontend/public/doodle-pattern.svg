@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <g fill="none" stroke="#f9a8d4" stroke-width="1.5" opacity="0.18" stroke-linecap="round" stroke-linejoin="round">
+    <!-- House -->
+    <path d="M55 95 L55 130 L95 130 L95 95 L75 72 Z"/>
+    <rect x="67" y="108" width="14" height="22"/>
+    <rect x="58" y="100" width="8" height="8"/>
+
+    <!-- Crescent Moon -->
+    <path d="M200 35 Q225 35 225 60 Q225 85 200 85 Q215 75 215 60 Q215 45 200 35Z"/>
+
+    <!-- Flower 1 -->
+    <circle cx="340" cy="70" r="9"/>
+    <circle cx="326" cy="56" r="9"/>
+    <circle cx="354" cy="56" r="9"/>
+    <circle cx="326" cy="84" r="9"/>
+    <circle cx="354" cy="84" r="9"/>
+    <circle cx="340" cy="70" r="4"/>
+    <path d="M340 79 L340 110"/>
+    <path d="M340 95 L328 86"/>
+
+    <!-- Cloud -->
+    <path d="M110 190 Q110 168 132 168 Q138 150 160 156 Q172 144 190 156 Q208 148 208 168 Q224 172 218 190 Z"/>
+
+    <!-- Star -->
+    <path d="M280 165 L286 183 L305 183 L290 194 L296 212 L280 201 L264 212 L270 194 L255 183 L274 183Z"/>
+
+    <!-- Heart -->
+    <path d="M55 265 Q55 244 72 244 Q90 244 90 265 Q90 286 72 302 Q55 286 55 265Z"/>
+
+    <!-- Shield -->
+    <path d="M195 240 L195 275 Q195 296 218 308 Q242 296 242 275 L242 240 Q218 228 195 240Z"/>
+    <path d="M210 268 L218 278 L230 260"/>
+
+    <!-- Map Pin -->
+    <circle cx="350" cy="255" r="14"/>
+    <path d="M350 269 L350 295"/>
+    <circle cx="350" cy="255" r="6"/>
+
+    <!-- Leaf -->
+    <path d="M240 350 Q265 325 290 350 Q265 375 240 350Z"/>
+    <path d="M250 350 L280 350"/>
+
+    <!-- Sparkle / Star small -->
+    <path d="M365 355 L369 368 L382 372 L369 376 L365 389 L361 376 L348 372 L361 368Z"/>
+
+    <!-- Building -->
+    <path d="M300 220 L300 185 L325 185 L325 220"/>
+    <rect x="305" y="190" width="6" height="8"/>
+    <rect x="315" y="190" width="6" height="8"/>
+    <rect x="305" y="203" width="6" height="8"/>
+    <rect x="315" y="203" width="6" height="8"/>
+
+    <!-- Compass arrow -->
+    <circle cx="130" cy="330" r="16"/>
+    <path d="M130 314 L130 346"/>
+    <path d="M114 330 L146 330"/>
+    <path d="M130 314 L134 324 L126 324Z"/>
+
+    <!-- Flower 2 (small) -->
+    <circle cx="140" cy="110" r="5"/>
+    <circle cx="132" cy="102" r="5"/>
+    <circle cx="148" cy="102" r="5"/>
+    <circle cx="132" cy="118" r="5"/>
+    <circle cx="148" cy="118" r="5"/>
+    <path d="M140 115 L140 135"/>
+
+    <!-- Diamond -->
+    <path d="M68 200 L82 185 L96 200 L82 215Z"/>
+
+    <!-- Plus signs -->
+    <path d="M310 130 L310 146"/>
+    <path d="M302 138 L318 138"/>
+
+    <path d="M48 340 L48 356"/>
+    <path d="M40 348 L56 348"/>
+
+    <!-- Wavy route -->
+    <path d="M15 155 Q50 138 85 155 Q120 172 155 155"/>
+
+    <!-- Smiley face -->
+    <circle cx="260" cy="95" r="15"/>
+    <circle cx="254" cy="90" r="2" fill="#f9a8d4" stroke="none" opacity="0.2"/>
+    <circle cx="266" cy="90" r="2" fill="#f9a8d4" stroke="none" opacity="0.2"/>
+    <path d="M253 100 Q260 108 267 100"/>
+
+    <!-- Small circles / dots scattered -->
+    <circle cx="170" cy="120" r="3"/>
+    <circle cx="380" cy="160" r="2.5"/>
+    <circle cx="25" cy="235" r="3"/>
+    <circle cx="320" cy="320" r="2.5"/>
+    <circle cx="180" cy="380" r="3"/>
+    <circle cx="395" cy="295" r="2"/>
+    <circle cx="100" cy="270" r="2"/>
+    <circle cx="280" cy="310" r="2"/>
+
+    <!-- Tiny stars scattered -->
+    <path d="M160 250 L162 256 L168 256 L163 260 L165 266 L160 262 L155 266 L157 260 L152 256 L158 256Z" transform="scale(0.6) translate(130, 180)"/>
+    <path d="M350 25 L352 31 L358 31 L353 35 L355 41 L350 37 L345 41 L347 35 L342 31 L348 31Z" transform="scale(0.7) translate(140, -5)"/>
+
+    <!-- Swirl -->
+    <path d="M180 310 Q200 300 210 315 Q220 330 200 335 Q185 338 180 325"/>
+  </g>
+</svg>
